@@ -68,7 +68,7 @@
                     <!-- Product Card 1 -->
                     <div class="bg-gray-50 rounded-xl shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300">
                         <!-- Image updated -->
-                        <img src="https://images.unsplash.com/photo-1594916894082-f54f15d914d7?q=80&w=2940&auto=format&fit=crop" alt="The Modern Trench" class="w-full h-72 object-cover">
+                        <img src="https://scontent-jnb2-1.cdninstagram.com/v/t1.15752-9/541349392_1469726484069948_2976711773929257045_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=i58GveiQQ3wQ7kNvwFRBQvd&_nc_oc=Adn8kL4STLGev85ryIclQSc2OdooxazLuzucjCJt7lqSuwjYCjHAj1TOEW3tbH-Lbe4&_nc_zt=23&_nc_ht=scontent-jnb2-1.cdninstagram.com&oh=03_Q7cD3QFkKd_bmNF42qHalLHN2b_psy3Co9TGfcHdYSrLhl0dTw&oe=68E5149B" alt="Love Is Rare (white)" class="w-full h-72 object-cover">
                         <div class="p-6 text-center">
                             <h3 class="text-xl font-semibold text-gray-800">The Modern Trench</h3>
                             <p class="text-gray-600 mt-2">$120</p>
@@ -80,7 +80,7 @@
                     <!-- Product Card 2 -->
                     <div class="bg-gray-50 rounded-xl shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300">
                         <!-- Image updated -->
-                        <img src="https://images.unsplash.com/photo-1617196035031-c4d6f83060c5?q=80&w=2940&auto=format&fit=crop" alt="Urban Pullover" class="w-full h-72 object-cover">
+                        <img src="https://scontent-jnb2-1.cdninstagram.com/v/t1.15752-9/541550472_578852385218201_4323305043103114857_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Lj8qOAR03nEQ7kNvwEg2brt&_nc_oc=AdkQI6o1n6ommfkrlYVVLDcZMWtnlA-r0Tm2mG6M8DTLCNIu9_Dhx4Zg59gXqQOLku8&_nc_zt=23&_nc_ht=scontent-jnb2-1.cdninstagram.com&oh=03_Q7cD3QFsTi9x2G6-_m0mUs1mc21T3rcqDihE1bzad-WW2QcnDA&oe=68E50F38" alt="Urban Black Tee" class="w-full h-72 object-cover">
                         <div class="p-6 text-center">
                             <h3 class="text-xl font-semibold text-gray-800">Urban Pullover</h3>
                             <p class="text-gray-600 mt-2">$85</p>
@@ -92,7 +92,7 @@
                     <!-- Product Card 3 -->
                     <div class="bg-gray-50 rounded-xl shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300">
                         <!-- Image updated -->
-                        <img src="https://images.unsplash.com/photo-1591195610813-bc78b7762699?q=80&w=2835&auto=format&fit=crop" alt="Classic Denim" class="w-full h-72 object-cover">
+                        <img src="https://scontent-jnb2-1.cdninstagram.com/v/t1.15752-9/541947660_2182793205557003_12442934149325169_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=5xyKfrID-hkQ7kNvwEtO44A&_nc_oc=AdlQfUnCqrQ_liSZzPc5dMS7OG6OpjeXnB_jb1gEggS_RL-C65M-iXO0uo20SvA9g1w&_nc_zt=23&_nc_ht=scontent-jnb2-1.cdninstagram.com&oh=03_Q7cD3QEDGIIlfRTR7F1yQ4RJROdpRoKfQ4IGwKCGCVJhElqGDw&oe=68E4F90C" alt="Classic Black Tee" class="w-full h-72 object-cover">
                         <div class="p-6 text-center">
                             <h3 class="text-xl font-semibold text-gray-800">Classic Denim</h3>
                             <p class="text-gray-600 mt-2">$95</p>
